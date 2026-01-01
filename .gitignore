@@ -1,0 +1,33 @@
+
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.opendb
+*.VC.db
+*.mp3
+*.png
+
+
+# C++ 编译产物
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# 临时文件
+*.log
+*.tmp
+Thumbs.db
+ 
